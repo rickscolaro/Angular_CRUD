@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ ",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Smart Phone",
+      "price": "3500.00"
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Picão",
+      "price": 0,
+      "id": 6
+    },
+    {
+      "name": "Veio do Formulario",
+      "price": "9.99",
+      "id": 7
+    },
+    {
+      "name": "Notebook",
+      "price": "5680.85",
+      "id": 8
+    },
+    {
+      "name": "Play Station 5",
+      "price": "4000",
+      "id": 9
+    },
+    {
+      "name": "Ferrari LaFerrari",
+      "price": "14000000",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+
+.home{
+    background-color: aliceblue;
+}
+
+.home .title {
+  font-size: 38px;
+  font-weight: 300;
+  line-height: 1.2;
+  color: black;
+}
+
+.home .subtitle {
+  font-size: 1.1rem;
+  color: black;
+}
